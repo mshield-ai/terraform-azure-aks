@@ -13,7 +13,7 @@ This repository contains HashiCorp Terraform configuration required to create a 
 ### Clone the Github repository
 
 ```bash
-git clone https://github.com/anubhavmishra/terraform-azurerm-aks.git
+git clone https://github.com/mshield-ai/terraform-azurerm-aks.git
 ```
 
 ## Tutorial
